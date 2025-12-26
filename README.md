@@ -120,9 +120,6 @@ Sinta-se à vontade para contribuir com este projeto:
 
 Este projeto está sob a licença MIT. Veja o arquivo `LICENSE` para mais detalhes.
 
-## Autor
-
-Nicolly - [NickMorethes](https://github.com/NickMorethes)
 
 ## Agradecimentos
 
