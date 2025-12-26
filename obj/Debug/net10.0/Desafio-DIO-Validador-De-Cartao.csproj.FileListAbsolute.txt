@@ -1,0 +1,15 @@
+C:\Users\N\Documents\dio\Desafio-DIO-Validador-De-Cartao\bin\Debug\net10.0\Desafio-DIO-Validador-De-Cartao.exe
+C:\Users\N\Documents\dio\Desafio-DIO-Validador-De-Cartao\bin\Debug\net10.0\Desafio-DIO-Validador-De-Cartao.deps.json
+C:\Users\N\Documents\dio\Desafio-DIO-Validador-De-Cartao\bin\Debug\net10.0\Desafio-DIO-Validador-De-Cartao.runtimeconfig.json
+C:\Users\N\Documents\dio\Desafio-DIO-Validador-De-Cartao\bin\Debug\net10.0\Desafio-DIO-Validador-De-Cartao.dll
+C:\Users\N\Documents\dio\Desafio-DIO-Validador-De-Cartao\bin\Debug\net10.0\Desafio-DIO-Validador-De-Cartao.pdb
+C:\Users\N\Documents\dio\Desafio-DIO-Validador-De-Cartao\obj\Debug\net10.0\Desafio-DIO-Validador-De-Cartao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\N\Documents\dio\Desafio-DIO-Validador-De-Cartao\obj\Debug\net10.0\Desafio-DIO-Validador-De-Cartao.AssemblyInfoInputs.cache
+C:\Users\N\Documents\dio\Desafio-DIO-Validador-De-Cartao\obj\Debug\net10.0\Desafio-DIO-Validador-De-Cartao.AssemblyInfo.cs
+C:\Users\N\Documents\dio\Desafio-DIO-Validador-De-Cartao\obj\Debug\net10.0\Desafio-DIO-Validador-De-Cartao.csproj.CoreCompileInputs.cache
+C:\Users\N\Documents\dio\Desafio-DIO-Validador-De-Cartao\obj\Debug\net10.0\Desafio-DIO-Validador-De-Cartao.sourcelink.json
+C:\Users\N\Documents\dio\Desafio-DIO-Validador-De-Cartao\obj\Debug\net10.0\Desafio-DIO-Validador-De-Cartao.dll
+C:\Users\N\Documents\dio\Desafio-DIO-Validador-De-Cartao\obj\Debug\net10.0\refint\Desafio-DIO-Validador-De-Cartao.dll
+C:\Users\N\Documents\dio\Desafio-DIO-Validador-De-Cartao\obj\Debug\net10.0\Desafio-DIO-Validador-De-Cartao.pdb
+C:\Users\N\Documents\dio\Desafio-DIO-Validador-De-Cartao\obj\Debug\net10.0\Desafio-DIO-Validador-De-Cartao.genruntimeconfig.cache
+C:\Users\N\Documents\dio\Desafio-DIO-Validador-De-Cartao\obj\Debug\net10.0\ref\Desafio-DIO-Validador-De-Cartao.dll
